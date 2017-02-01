@@ -1,0 +1,24 @@
+@import "reset.scss";
+@import "typography.scss";
+@import "grid.scss";
+@import "logo.scss";
+@import "background.scss";
+@import "align.scss";
+@import "buttons.scss";
+@import "code.scss";
+@import "color.scss";
+
+
+html {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6,p,small {
+    color: white;
+    @media (min-width: 700px) {
+        color: white;
+        text-shadow: -2px 1px 0px rgba(44, 62, 80, 1);
+    }
+}

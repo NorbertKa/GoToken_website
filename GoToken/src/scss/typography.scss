@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Fira+Mono');
+
+.textAlternative {
+    color: hsl(0, 0%, 95%);
+}
+
+small,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+  font-weight: normal;
+  margin-bottom: 1.2rem;
+}
+h1{
+  font-size: 4.0rem;
+  line-height: 1;
+
+  }
+h2{
+  font-size: 3.5rem;
+  line-height: 1.05;
+
+  }
+h3{
+  font-size: 3rem;
+  line-height: 1.1;
+
+  }
+h4{
+  font-size: 2.5rem;
+  line-height: 1.15;
+
+  }
+h5{
+  font-size: 2rem;
+  line-height: 1.2;
+
+  }
+h6{
+  font-size: 1.5rem;
+  line-height: 1.25;
+}
+small{
+  font-size: 1.22rem;
+  line-height: 0.9;
+
+  }
+@media (min-width: 40rem){
+  h1{
+    font-size: 4.5rem;
+
+  }
+  h2{
+    font-size: 4rem;
+
+  }
+  h3{
+    font-size: 3.5rem;
+
+  }
+  h4{
+    font-size: 3rem;
+
+  }
+  h5{
+    font-size: 2.5rem;
+
+  }
+  h6{
+    font-size: 2rem;
+  }
+}

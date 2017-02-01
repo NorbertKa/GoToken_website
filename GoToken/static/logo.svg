@@ -5,11 +5,35 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128.241"
    height="100.1469"
    viewBox="0 0 33.930429 26.4972"
    version="1.1"
-   id="svg8">
+   id="svg8"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.0 r">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="959"
+     inkscape:window-height="1057"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="1.5438893"
+     inkscape:cx="69.444534"
+     inkscape:cy="57.181015"
+     inkscape:window-x="960"
+     inkscape:window-y="21"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
   <defs
      id="defs2" />
   <metadata
@@ -20,47 +44,48 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="layer1"
-     transform="translate(-115.32645,-151.45971)">
+     transform="translate(-115.32645,-151.45971)"
+     style="stroke:#ffffff;stroke-opacity:1">
     <g
        id="text4569"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#141400;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        aria-label="~">
       <path
          id="path16"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:none;stroke:#141400;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:none;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 142.70646,152.62117 v 4.31602 q -1.86035,1.46347 -3.64629,2.158 -1.76113,0.66973 -3.7207,0.66973 -2.23243,0 -5.03535,-1.26504 -0.54571,-0.24805 -0.81856,-0.34726 -1.90996,-0.81856 -3.1998,-1.11622 -1.26504,-0.29765 -2.53008,-0.29765 -1.95957,0 -3.72071,0.74414 -1.73632,0.71933 -3.54707,2.28203 v -4.31602 q 1.93477,-1.48828 3.74551,-2.158 1.81074,-0.66973 3.86953,-0.66973 1.31465,0 2.55489,0.27285 1.24023,0.27285 3.07578,1.0418 0.29765,0.12402 0.81855,0.37207 2.87735,1.36426 5.18418,1.36426 1.73633,0 3.42305,-0.74414 1.71152,-0.76895 3.54707,-2.30684 z" />
     </g>
     <path
        id="path4571"
        d="m 148.08068,157.74425 a 1.3096207,1.3096207 0 0 1 -1.30962,1.30962 1.3096207,1.3096207 0 0 1 -1.30962,-1.30962 1.3096207,1.3096207 0 0 1 1.30962,-1.30962 1.3096207,1.3096207 0 0 1 1.30962,1.30962 z"
-       style="fill:none;fill-opacity:1;stroke:#141400;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="text4569-4"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#141400;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        aria-label="~">
       <path
          id="path20"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:none;stroke:#141400;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:none;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 142.72332,161.13541 v 4.31601 q -1.86035,1.46348 -3.64629,2.15801 -1.76113,0.66973 -3.7207,0.66973 -2.23242,0 -5.03535,-1.26504 -0.54571,-0.24805 -0.81856,-0.34727 -1.90996,-0.81855 -3.1998,-1.11621 -1.26504,-0.29766 -2.53008,-0.29766 -1.95957,0 -3.7207,0.74415 -1.73633,0.71933 -3.54707,2.28203 v -4.31602 q 1.93476,-1.48828 3.7455,-2.15801 1.81075,-0.66972 3.86953,-0.66972 1.31465,0 2.55489,0.27285 1.24023,0.27285 3.07578,1.0418 0.29765,0.12402 0.81855,0.37207 2.87735,1.36425 5.18418,1.36425 1.73633,0 3.42305,-0.74414 1.71152,-0.76894 3.54707,-2.30683 z" />
     </g>
     <g
        id="text4569-9"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#141400;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        aria-label="~">
       <path
          id="path23"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:none;stroke:#141400;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:none;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 142.72192,169.6517 v 4.31602 q -1.86035,1.46348 -3.64629,2.15801 -1.76113,0.66972 -3.7207,0.66972 -2.23242,0 -5.03535,-1.26504 -0.5457,-0.24804 -0.81855,-0.34726 -1.90997,-0.81856 -3.19981,-1.11621 -1.26504,-0.29766 -2.53008,-0.29766 -1.95957,0 -3.7207,0.74414 -1.73633,0.71934 -3.54707,2.28203 v -4.31601 q 1.93476,-1.48828 3.74551,-2.15801 1.81074,-0.66973 3.86953,-0.66973 1.31465,0 2.55488,0.27285 1.24024,0.27286 3.07578,1.0418 0.29766,0.12403 0.81856,0.37207 2.87734,1.36426 5.18418,1.36426 1.73632,0 3.42304,-0.74414 1.71153,-0.76895 3.54707,-2.30684 z" />
     </g>
     <path
        id="path4571-9"
        d="m 148.09542,166.26027 a 1.3096207,1.3096207 0 0 1 -1.30962,1.30962 1.3096207,1.3096207 0 0 1 -1.30962,-1.30962 1.3096207,1.3096207 0 0 1 1.30962,-1.30962 1.3096207,1.3096207 0 0 1 1.30962,1.30962 z"
-       style="fill:none;fill-opacity:1;stroke:#141400;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>

@@ -1,0 +1,37 @@
+@import "susy";
+
+/* Changing Susy default global settings */
+$susy: (
+  /* Tells Susy to use 12 columns */
+  columns: 12,
+  /* Tells Susy that the container has a max-width of 1120px */
+  container: 1140px,
+  /* Tells Susy to use border-box */
+  global-box-sizing: border-box 
+  );
+
+
+.wrap {
+    @include container;
+}
+
+.content {
+    @include span(12);
+    @media (min-width: 700px) {
+        @include span(12);
+    }
+}
+
+.column {
+    @include span(12);
+    @media (min-width: 700px) {
+        @include span(4 of 12 split);
+    }
+}
+
+.column-2 {
+    @include span(12);
+    @media (min-width: 700px) {
+        @include span(6 of 12 split);
+    }
+}

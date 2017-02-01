@@ -1,0 +1,18 @@
+.center {
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+.right {
+    text-align: right;
+}
+
+.inline {
+    display: inline;
+}
+
+.inline > * {
+    display: inline;
+    vertical-align: middle;
+}
