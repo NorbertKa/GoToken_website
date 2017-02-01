@@ -1,3 +1,4 @@
 # GoToken_website
 
-`npm run dev` to run development env.
+1. Cd into GoToken folder `cd GoToken`
+2. Run npm dev `npm run dev`
